@@ -8,7 +8,7 @@
 
 **Идея:**  
 Мобильное приложение, которое связывает людей, накопивших вторсырьё (макулатуру, стекло, пластик, батарейки), с курьерами или волонтёрами, готовыми вывезти его в пункты приёма.  
-Концепция: «Uber для сдачи вторсырья».
+Концепция: "Uber для сдачи вторсырья".
 
 **Проблема:**  
 Многие хотят сортировать отходы, но не имеют времени, машины или физической возможности доехать до пункта приёма.
@@ -21,23 +21,20 @@
 - Семьи с детьми (накапливается много картона, пластика);
 - Люди без личного автомобиля.
 
----
-
 ## Навигация по практическим заданиям
 
 | Задание | Тема | Статус |
-|--------|------|--------|
-| [ПЗ№1](./task-1/README.md) | Elevator Pitch и Lean Canvas |
-| [ПЗ№2](./task-2/README.md) | User Stories, MVP, MLP, требования |
-| [ПЗ№3](./task-3/README.md) | DDD, BDD, Wireframes, API-контракты |
-| [ПЗ№4](./task-4/README.md) | C4-диаграммы и стек технологий |
-| [ПЗ№5](./task-5/README.md) | Команда, методология, ритуалы |
-| [ПЗ№6](./task-6/README.md) | Матрица рисков |
-
----
+|--------|------|:------:|
+| [ПЗ№1](./task-1/README.md) | Elevator Pitch и Lean Canvas | + |
+| [ПЗ№2](./task-2/README.md) | User Stories, MVP, MLP, требования | + |
+| [ПЗ№3](./task-3/README.md) | DDD, BDD, Wireframes, API-контракты | + |
+| [ПЗ№4](./task-4/README.md) | C4-диаграммы и стек технологий | + |
+| [ПЗ№5](./task-5/README.md) | Команда, методология, ритуалы | + |
+| [ПЗ№6](./task-6/README.md) | Матрица рисков | + |
 
 ## Автор
 
 - **ФИО:** Абрамова Элиан
 - **Группа:** WEB-11
-- **Ведомость:** https://docs.google.com/spreadsheets/d/1o9naPcCdYahxWfzJoYdbLxNh_VDvR4gd8Yl8MqNjBgc/edit?gid=755529349#gid=755529349
+- **Доска Miro:**
+https://miro.com/welcomeonboard/Z2NrcXFIVkN6d0xyekZsNDlWcTNJdnl4UUVPa2dhQTZSWmVCTDhTLzVmQUJDRnJJNU00cG5ObDM2OXdLd3RiMFF1Tm15UXlHWEwvUS9kUmNSK21RRFRLbnZCbzhUU2JUMnJJMGRVYjZ2aTNNNjEvTktEREZWOTZtTmxOQ2N6WDRBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=393120130904
