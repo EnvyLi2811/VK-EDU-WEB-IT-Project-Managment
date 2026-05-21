@@ -38,3 +38,5 @@
 - **Группа:** WEB-11
 - **Доска Miro:**
 https://miro.com/welcomeonboard/Z2NrcXFIVkN6d0xyekZsNDlWcTNJdnl4UUVPa2dhQTZSWmVCTDhTLzVmQUJDRnJJNU00cG5ObDM2OXdLd3RiMFF1Tm15UXlHWEwvUS9kUmNSK21RRFRLbnZCbzhUU2JUMnJJMGRVYjZ2aTNNNjEvTktEREZWOTZtTmxOQ2N6WDRBd044SHFHaVlWYWk0d3NxeHNmeG9BPT0hdjE=?share_link_id=393120130904
+- **Ведомость:**
+https://docs.google.com/spreadsheets/d/1o9naPcCdYahxWfzJoYdbLxNh_VDvR4gd8Yl8MqNjBgc/edit?gid=1635864869#gid=1635864869
